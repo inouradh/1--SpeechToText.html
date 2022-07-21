@@ -25,6 +25,6 @@ then Select the WEMOS D1 MINI ESP32 controller by clicking Tools, selecting ESP3
 
 10- Click on a file, then select Examples, then select 01.Basic, then select Blink to turn on the lights.
 
-11- The address bar on the left side of the upload procedure then shows a page push and an arrow tick.
-  
-Lastly the blue light starts to point, either fast or slowly.
+11- Then a page press an arrow tick appears in the address bar on the left side of the upload process.
+
+ Lastly the blue light starts to point, either fast or slowly.
